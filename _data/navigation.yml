@@ -6,9 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Awards"
-    url: /year-archive/
+  #- title: "Awards"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
