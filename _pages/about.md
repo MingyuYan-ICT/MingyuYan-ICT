@@ -13,6 +13,6 @@ I am an assistant professor working in The Institute of Computing Technology of 
 
 News
 ======
-Good luck.
+Good luck for someday.
 
 
