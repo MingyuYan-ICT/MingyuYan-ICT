@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor working in The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include computer architecture, graph analytics accelerator, graph neural network accelerator. 
+I am an associate professor working in The Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include computer architecture, hardware accelerators for graph-based applications, and graph machine learning algorithms. 
 
 
 News
