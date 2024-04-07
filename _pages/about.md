@@ -44,51 +44,30 @@ Jan. 2018 - Feb. 2020: **University of California, Santa Barbara (UCSB)**
 * International Joint Conference on Artificial Intelligence (IJCAI 2024 Survey Track TPC)
 
 ### Journal Editor
-* Frontiers in Neuroscience (Member in Editorial Board, JOS 2022 - Present)
+* Frontiers in Neuroscience (Member in Editorial Board, 2022 - Present)
 
 ### Journal Reviewer
-IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Computer Architecture Letters (IEEE CAL), Frontiers in Neuroscience, and others. He has also joined the editorial board of Frontiers in Neuroscience, one of the world's largest and most cited neuroscience journal series, as a review editor. 
-
-### Journal Editor
-* Frontiers in Neuroscience (Youth Editorial Board Member, JOS 2024 - Present)
-
-### Journal Reviewer
-IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Computer Architecture Letters (IEEE CAL), Frontiers in Neuroscience, and others. He has also joined the editorial board of Frontiers in Neuroscience, one of the world's largest and most cited neuroscience journal series, as a review editor. 
+* IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+* IEEE Computer Architecture Letters (IEEE CAL)
+* Frontiers in Neuroscience
 
 ## Honors and Awards
-* Selected for Member of Youth Innovation Promotion Association of Chinese Academy of Sciences
-\cvmode{2022} {Outstanding Doctoral Dissertation Award of China Computer Federation}
-\cvmode{2022} {Selected for Young Talent Development Program of China Computer Federation}
-\cvmode{2021} {Selected for Youth Team Program in Basic Research of Chinese Academy of Sciences}
-\cvmode{2021} {Selected for Special Research Assistant Grant Program of Chinese Academy of Sciences}
-\cvmode{2021} {SEKE 2021 Best Paper Award (2nd Place) [C\ref{SEKE2021}]}
-\cvmode{2020} {First Prize in Beijing Science and Technology Award (Technological Invention Award)}
-\cvmode{2020} {Outstanding Graduates of Beijing High Schools}
-\cvmode{2020} {Outstanding Graduates of University of Chinese Academy of Sciences}
-\cvmode{2019} {Special Award for Director of Institute of Computing Technology, Chinese Academy of Sciences} 
-%\cvmode{2019} {National Scholarship for Doctoral Student}
-%\cvmode{2019} {Zhu-Li Yuehua Outstanding Doctoral Scholarship of University of Chinese Academy of Sciences}
-%\cvmode{2017} {Huawei Doctoral Scholarship of Institute of Computing Technology, Chinese Academy of Sciences}
-%\cvmode{2013} {National Scholarship for Undergraduate Student} 
-%\cvmode{2012} {National Scholarship for Undergraduate Student} 
-* 2023 Top-10 Research Advances in China Semiconductors (2023)
-* ZGC Forum Top-100 New Technologies and Products (2023)
-* Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
-* Top-Pick Paper Award in Chinese Institute of Electronics (2021)
-* Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
-* THU Excellent Dissertation Award (2019)
-* THU Outstanding Student Scholarship (2016, 2018)
-* THU DengFeng Fellowship (2015, 2018)
-* IME Outstanding Young Researcher Award (2018)
-* National Scholarship for Ph.D. Students (THU 2017, 0.2%)
-* ISLPED'17 Design Contest Award (2017)
-* THU Outstanding Postgraduate Assistant (2016)
-* ICFC Fellowship for Outstanding Ph.D. Students (2016)
-* Lam Research Scholarship (2015)
-* Excellent Paper Award of THU Ph.D. Student Forum (2015)
-* National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)
-* BUPT Merit Student (2010, 2011, 2012)
-
+* Selected for Member of Youth Innovation Promotion Association of Chinese Academy of Sciences (2023)
+* Outstanding Doctoral Dissertation Award of China Computer Federation (2022)
+* Selected for Young Talent Development Program of China Computer Federation (2022)
+* Selected for Youth Team Program in Basic Research of Chinese Academy of Sciences (2021)
+* Selected for Special Research Assistant Grant Program of Chinese Academy of Sciences (2021)
+* SEKE 2021 Best Paper Award 2nd Place (2021)
+* First Prize in Beijing Science and Technology Award (Technological Invention Award) (2020)
+* Outstanding Graduates of Beijing High Schools (2020)
+* Outstanding Graduates of University of Chinese Academy of Sciences (2020)
+* Special Award for Director of Institute of Computing Technology, Chinese Academy of Sciences (2019) 
+* National Scholarship for Doctoral Student (2019)
+* Zhu-Li Yuehua Outstanding Doctoral Scholarship of University of Chinese Academy of Sciences (2019)
+* Huawei Doctoral Scholarship of Institute of Computing Technology, Chinese Academy of Sciences (2017)
+* National Scholarship for Undergraduate Student (2013)
+* National Scholarship for Undergraduate Student (2012)
 
 
 ## Contact
