@@ -31,7 +31,7 @@ author_profile: true
 - We first quantitatively characterize a set of representative HGNN models on GPU to disclose the execution bound of each stage, inter-semantic-graph parallelism, and inter-semantic-graph data reusability in HGNNs. Guided by our findings, we propose a high-performance HGNN accelerator, HiHGNN, to alleviate the execution bound and exploit the newfound parallelism and data reusability in HGNNs. 
 - [HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation](https://arxiv.org/abs/2307.12765) 
 - [GDR-HGNN: A Heterogeneous Graph Neural Networks Accelerator with Graph Decoupling and Recouping] **(DAC'24)**.
-- [Characterizing and Understanding HGNNs on GPUs](https://ieeexplore.ieee.org/abstract/document/9855397/) **IEEE CAL 2022**
+- [Characterizing and Understanding HGNNs on GPUs](https://ieeexplore.ieee.org/abstract/document/9855397/) **(IEEE CAL 2022)**
 
 
 ### [Oct. 2022-Present] **Design Space Exploration Framework for CPU and Domain-specific Architecture.**
