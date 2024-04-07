@@ -11,51 +11,153 @@ author_profile: true
 
 ## Journal Papers
 * **[JSSC'24]** **F. Tu**,  Z. Wu, Y. Wang, W. Wu, L. Liu, Y. Hu, S. Wei, S. Yin, "[MulTCIM: Digital Computing-In-Memory-based Multimodal Transformer Accelerator with Attention-Token-Bit Hybrid Sparsity](https://ieeexplore.ieee.org/document/10226612)," IEEE Journal of Solid-State Circuits (JSSC), 2024. (**Invited Paper**, ISSCC'23 Extension)
-* **[JSSC'23]** **F. Tu**, Y. Wang,  Z. Wu, L. Liang, Y. Ding, B. Kim, L. Liu, S. Wei, Y. Xie, S. Yin, "[ReDCIM: Reconfigurable Digital Computing-In-Memory Processor with Unified FP/INT Pipeline for Cloud AI Acceleration](https://ieeexplore.ieee.org/document/9968289)," IEEE Journal of Solid-State Circuits (JSSC), 2023. (**Invited Paper**, ISSCC'22 Extension, **2023 Top-10 Research Advances in China Semiconductors**) 
-* **[JSSC'23]** **F. Tu**,  Z. Wu, Y. Wang, L. Liang, L. Liu, Y. Ding, L. Liu, S. Wei, Y. Xie, S. Yin, "[TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9931922)," IEEE Journal of Solid-State Circuits (JSSC), 2023. (ISSCC'22 Extension) 
-* **[TCAS-I'23]** Y. Wang, **F. Tu**, L. Liu, S. Wei, Y. Xie, S. Yin, "[SPCIM: Sparsity-Balanced Practical CIM Accelerator with Optimized Spatial-Temporal Multi-Macro Utilization](https://ieeexplore.ieee.org/document/9933049)," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023.
-* **[TCAD'23]** **F. Tu**, Y. Wang, L. Liang, Y. Ding, L. Liu, S. Wei,	S. Yin, Y. Xie, "[SDP: Co-Designing Algorithm, Dataflow, and Architecture for in-SRAM Sparse NN Acceleration](https://ieeexplore.ieee.org/document/9768124)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
-* **[JSSC'21]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, Y. Xie, S. Yin, "[Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075)," IEEE Journal of Solid-State Circuits (JSSC), 2021. (**Nomination Award for 2021 Top-10 Research Advances in China Semiconductors**)
-* **[TCSVT'19]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Reconfigurable Architecture for Neural Approximation in Multimedia Computing](http://ieeexplore.ieee.org/document/8307081/)," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2019.
-* **[JSSC'18]** S. Yin, P. Ouyang, S. Tang, **F. Tu**, X. Li, S. Zheng, T. Lu, J. Gu, L. Liu, S. Wei, "[A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/)," IEEE Journal of Solid-State Circuits (JSSC), 2018. (VLSI'17 Extension)
-* **[TVLSI'17]** **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI No.5/2/6/8/8/9 Downloaded Manuscripts in 2017~2022, 6 Times Monthly No.1 Popular Article**)
+* **TCAD 2024** Duo Wang, **Mingyu Yan**, Yihan Teng, Dengke Han, Xin Liu, Wenming Li, Xiaochun Ye, and Dongrui Fan. "[MoDSE: A High-Accurate Multi-Objective Design Space Exploration Framework for CPU Microarchitectures](https://ieeexplore.ieee.org/abstract/document/10345735)." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2024.
+* **[PIEE 2024]** Haiyang Lin, **Mingyu Yan**, Xiaochun Ye, Dongrui Fan, Shirui Pan, Wenguang Chen, and Yuan Xie.}
+  {``A Comprehensive Survey on Distributed Training of Graph Neural Networks."}
+  { Proceedings of the IEEE (PIEEE), 2023}  
+  
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Gongjian Sun, **Mingyu Yan**, Duo Wang, Han Li, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie.}
+  {``Multi-Node Acceleration for Large-Scale GCNs."}
+  { IEEE Transactions on Computers (IEEE TC), 2022}  
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Haiyang Lin, **Mingyu Yan**, Xiaocheng Yang, Mo Zou, Wenming Li, Xiaochun Ye, and Dongrui Fan.}
+  {``Characterizing and Understanding Distributed GNN Training on GPUs."}
+  { IEEE Computer Architecture Letters (IEEE CAL), 2022}  
+
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Xin Liu, **Mingyu Yan**, Lei Deng, Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, and Dongrui Fan.}
+  {``General Spiking Neural Network Framework for the Learning Trajectory from A Noisy mmWave Radar."}
+  { Neuromorphic Computing and Engineering (NCE), 2022}    
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {**Mingyu Yan**, Mo Zou, Xiaocheng Yang, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie.}
+  {``Characterizing and Understanding HGNNs on GPUs."}
+  {IEEE Computer Architecture Letters (IEEE CAL), 2022}  
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Xin Liu, **Mingyu Yan**, Lei Deng, Guoqi Li, Xiaochun Ye, and Dongrui Fan.}
+  {``Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey."}
+  {IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS), 2022}  
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Han Li, **Mingyu Yan**, Xiaocheng Yang, Lei Deng, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie.}
+  {``Hardware Acceleration for GCNs via Bidirectional Fusion."}
+  {IEEE Computer Architecture Letters (IEEE CAL), 2021}
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, **Mingyu Yan**, Lei Deng, Yufei Ding, Zidong Du, and Yuan Xie.}
+  {``Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training."}
+  {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2021}
+
+
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Wei Xuan, Huawei Cao, **Mingyu Yan**, Zhimin Tang, Xiaochun Ye, and Dongrui Fan.}
+  {``BSR-TC: Adaptively Sampling for Accurate Triangle Counting over Evolving Graph Streams."}
+  {International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2021}
+
+  
+{[J\refstepcounter{paperno}\thepaperno].}
+  {Ling Liang, Jianyu Xu, Lei Deng, **Mingyu Yan**, Xing Hu, Zheng Zhang, Guoqi Li, and Yuan Xie.}
+  {``Fast Search of the Optimal Contraction Sequence in Tensor Networks."}
+  {IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), 2021}
+
+
+{[J\refstepcounter{paperno}\thepaperno].\label{GCN_Characterization}}
+  {**Mingyu Yan**, Zhaodong Chen, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie  }
+  {`` Characterizing and Understanding GCNs on GPU."}
+  {in IEEE Computer Architecture Letters (IEEE CAL), 2020}
+
+
 
 ## Conference Papers
 * **[ISSCC'24]** R. Guo, L. Wang, X. Chen, H. Sun, Z. Yue, Y. Qin, H. Han, Y. Wang, **F. Tu**, S. Wei, Y. Hu, S. Yin, "A 28nm 74.34TFLOPS/W BF16 Heterogeneous CIM-Based Accelerator	Exploiting Denoising-Similarity for Diffusion Models," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2024.
-* **[ISSCC'24]** Z. Yue, X. Xiang, **F. Tu**, Y. Wang, Y. Wang, S. Wei, Y. Hu, S. Yin, "A 0.795fJ/b Physically-Unclonable-Function-Protected TCAM for Software-Defined Networking Switch," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2024.
-* **[ISCA'23]** S. Li, **F. Tu**, L. Liu, J. Lin, Z. Wang, Y. Kang, Y. Ding, Y. Xie, "[ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification](https://dl.acm.org/doi/abs/10.1145/3579371.3589093)," International Symposium on Computer Architecture (ISCA), Orlando, USA, 2023. (**Acceptance Rate: 21.2% = 79/372**)
-* **[DAC'23]** J. Chen, **F. Tu**, K. Shao, F. Tian, X. Huo, C.-Y. Tsui, K.-T. Cheng, "[AutoDCIM: An Automated Digital CIM Compiler](https://ieeexplore.ieee.org/document/10247976)," Design Automation Conference (DAC), San Francisco, USA, 2023. (Corresponding Author, **Acceptance Rate: 23%**)
-* **[ISSCC'23]** **F. Tu**,  Y. Wang, Z. Wu, W. Wu, L. Liu, Y. Hu, S. Wei, S. Yin, "[TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/document/10067285)," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2023.
-* **[ISSCC'23]** **F. Tu**,  Z. Wu, Y. Wang, W. Wu, L. Liu, Y. Hu, S. Wei, S. Yin, "[MulTCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/document/10067842)," International Solid-State Circuits Conference (ISSCC), San Francisco, USA, 2023. (**Highlight Paper**)
-* **[ISSCC'22]** **F. Tu**,  Y. Wang, Z. Wu, L. Liang, Y. Ding, B. Kim, L. Liu, S. Wei, Y. Xie, S. Yin, "[A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762)," International Solid-State Circuits Conference (ISSCC), 2022. (**Highlight Paper**)
-* **[ISSCC'22]** **F. Tu**,  Z. Wu, Y. Wang, L. Liang, L. Liu, Y. Ding, L. Liu, S. Wei, Y. Xie, S. Yin, "[A 28nm 15.59$\mu$J/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645)," International Solid-State Circuits Conference (ISSCC), 2022. 
-* **[HotChips'20]** **F. Tu**, W. Wu, Y. Wang, H. Chen, F. Xiong, M. Shi, N. Li, J. Deng, T. Chen, L. Liu, S. Wei, S. Yin, "[ELearn: Edge Learning Processor with Bidirectional Speculation and Sparsity & Mixed-Precision aware Dataflow Parallelism Reconfiguration](https://ieeexplore.ieee.org/document/9250188)," Hot Chips, 2020. 
-* **[ISCA'18]** **F. Tu**, W. Wu, S. Yin, L. Liu, S. Wei, "[RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM](https://ieeexplore.ieee.org/document/8416839/)," International Symposium on Computer Architecture (ISCA), Los Angeles, USA, 2018. (**Acceptance Rate: 16.9% = 64/378**)
-* **[VLSI'17]** S. Yin, P. Ouyang, S. Tang, **F. Tu**, L. Liu, S. Wei, "[A 1.06-to-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor for Deep Learning Applications](https://ieeexplore.ieee.org/document/8008534)," Symposia on VLSI Technology and Circuits (VLSI Symposia), Kyoto, Japan, 2017.
-* **[DATE'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[RNA: A Reconfigurable Architecture for Hardware Neural Acceleration](https://ieeexplore.ieee.org/document/7092477)," Design, Automation and Test in Europe Conference (DATE), Grenoble, France, 2015. (**Acceptance Rate: 22%**)
-* **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Neural Approximating Architecture Targeting Multiple Application Domains](https://ieeexplore.ieee.org/document/7169195)," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
+  
+* **[DAC'24]**
+{{Runzhen Xue, **Mingyu Yan**, Dengke Han, Yihan Teng, Zhimin Tang, Xiaochun Ye, and Dongrui Fan.}
+{``GDR-HGNN: A Heterogeneous Graph Neural Networks Accelerator with Graph Decoupling and Recouping."}
+{\emph{in 61th ACM/IEEE Design Automation Conference (DAC)}, 2024.}
+}
 
-## Featured Collaborative Papers
-* **[TCAS-I'24]** X. Zhao, L. Chang, D. Fan, Z. Hu, T. Yue, **F. Tu**, J. Zhou, "HDSuper: High-Quality and High Computational Utilization Edge Super-Resolution Accelerator With Hardware-Algorithm Co-Design Techniques," IEEE Transactions on Circuits and Systems I (TCAS-I), 2024.
-* **[TCAD'24]** J. Zhou, J. Wu, Y. Gao, Y. Ding, C. Tao, B. Li, **F. Tu**, K.-T. Cheng, K.-H. So, N. Wong, "DyBit: Dynamic Bit-Precision Numbers for Efficient Quantized Neural Network Inference," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. 
-* **[MICRO'23]** J. Deng, X. Tang, J. Zhang, Y. Li, L. Zhang, B. Han, H. He, **F. Tu**, L. Liu, S. Wei, Y. Hu, S. Yin, "Towards Efficient Control Flow Handling in Spatial Architecture via Architecting the Control Flow Plane," IEEE/ACM International Symposium on Microarchitecture (MICRO), Toronto, Canada, 2023. (**Acceptance Rate: 23.8% = 101/424**)
-* **[ESSCIRC'23]** F. Tian, X. Wang, J. Chen, J. Zheng, H. Wu, X. Liu, **F. Tu**, J. Yang, M. Sawan, C.-Y. Tsui, K.-T. Cheng, "BIOS: A 40nm Bionic Sensor-defined 0.47pJ/SOP, 268.7TSOPs/W Configurable Spiking Neuron-in-Memory Processor for Wearable Healthcare," European Solid-State Circuits Conference (ESSCIRC), Lisbon, Portugal, 2023.
-* **[DAC'23]** Y. Zhu, Z. Zhu, G. Dai, **F. Tu**, H. Sun, K.-T. Cheng, H. Yang, Y. Wang, "PIM-HLS: An Automatic Hardware Generation and Scheduling for Processing-in-Memory-based Neural Network Accelerators," Design Automation Conference (DAC), San Francisco, USA, 2023. (**Acceptance Rate: 23%**)
-* **[TCAS-I'23]** W. Wu, **F. Tu**, M. Niu, Z. Yue, L. Liu, S. Wei, X. Li, Y. Hu, S. Yin, "STAR: An STGCN ARchitecture for Skeleton-based Human Action Recognition," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023. 
-* **[TCAS-I'23]** S. Wei, X. Lin, **F. Tu**, Y. Wang, L. Liu, S. Yin, "Reconfigurability, Why It Matters in AI Tasks Processing: a Survey of Reconfigurable AI Chips," IEEE Transactions on Circuits and Systems I (TCAS-I), 2023. 
-* **[TC'22]** L. Liu, Z. Qu, Z. Chen, **F. Tu**, Y. Ding, Y. Xie, "Dynamic Sparse Attention for Scalable Transformer Acceleration," IEEE Transactions on Computers (TC), 2022.
-* **[TCAS-I'22]** J. Yang, **F. Tu**, Y. Li, Y. Wang, L. Liu, S. Wei, S. Yin, "GQNA: Generic Quantized DNN Accelerator With Weight-Repetition-Aware Activation Aggregating," IEEE Transactions on Circuits and Systems I (TCAS-I), 2022. 
-* **[ISCA'22]** J. Lin, L. Liang, Z. Qu, I. Ahmad, L. Liu, **F. Tu**, T. Gupta, Y. Ding, Y. Xie, "INSPIRE: In-Storage Private Information Retrieval via Protocol and Architecture Co-design," International Symposium on Computer Architecture (ISCA), New York City, USA, 2022. (**Acceptance Rate: 16.8% = 67/400**) 	
-* **[DAC'22]** H. Lin, M. Yan, D. Wang, M. Zou, **F. Tu**, X. Ye, D. Fan, Y. Xie, "Alleviating Datapath Conflicts and Design Centralization in Graph Analytics Acceleration," Design Automation Conference (DAC), San Francisco, USA, 2022. (**Acceptance Rate: 23%**)
-* **[DATE'22]** L. Liang, Z. Chen, L. Deng, **F. Tu**, G. Li, Y. Xie, "Accelerating Spatiotemporal Supervised Training of Large-Scale Spiking Neural Networks on GPU," Design, Automation and Test in Europe Conference (DATE), 2022.
-* **[TCAD'22]** L. Liang, Z. Qu, Z. Chen, **F. Tu**, Y. Wu, L. Deng, G. Li, P. Li, Y. Xie, "H2Learn: High-Efficiency Learning Accelerator for High-Accuracy Spiking Neural Networks," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.  	
-* **[ASPLOS'22]** Z. Qu, L. Liu, **F. Tu**, Z. Chen, Y. Ding, Y. Xie, "DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration," ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), Lausanne, Switzerland, 2022. (**Acceptance Rate: 20.2% = 80/397**) 	
-* **[ICCAD'21]** H. Amrouch, J. Chen, K. Roy, Y. Xie, I. Chakraborty, W. Huangfu, L. Liang, **F. Tu**, C. Wang, M. Yayla, "Brain-Inspired Computing: Adventure from Beyond CMOS Technologies to Beyond von Neumann Architectures," International Conference on Computer Aided Design (ICCAD), 2021. (**Invited Paper**)
-* **[DAC'21]** X. Lin, L. Sun, **F. Tu**, L. Liu, X. Li, S. Wei, S. Yin, "ADROIT: An Adaptive Dynamic Refresh Optimization Framework for DRAM Energy Saving in DNN Training," Design Automation Conference (DAC), 2021. (**Acceptance Rate: 23%**)
-* **[MICRO'20]** L. Liu, Z. Qu, L. Deng, **F. Tu**, S. Li, X. Hu, Z. Gu, Y. Ding, Y. Xie, "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture," IEEE/ACM International Symposium on Microarchitecture (MICRO), 2020. (**Acceptance Rate: 15.6% = 66/422**)
-* **[DAC'20]** F. Xiong, **F. Tu**, M. Shi, Y. Wang, L. Liu, S. Wei, S. Yin, "STC: Significance-Aware Transform-Based Codec Framework for External Memory Access Reduction," Design Automation Conference (DAC), San Francisco, USA, 2020. (**Acceptance Rate: 23%**)
-* **[ISVLSI'19]** F. Xiong, **F. Tu**, S. Yin, S. Wei, "Towards Efficient Compact Network Training on Edge-Devices," IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, USA, 2019. (**Invited Paper**)
-* **[TPDS'18]** S. Yin, S. Tang, X. Lin, P. Ouyang, **F. Tu**, L. Liu, J. Zhao, C. Xu, S. Li, Y. Xie, S. Wei, "Parana: A Parallel Neural Architecture Considering Thermal Problem of 3D Stacked Memory," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018. 
-* **[TCAD'18]** J. Yan, S. Yin, **F. Tu**, L. Liu, S. Wei, "GNA: Reconfigurable and Efficient Architecture for Generative Network Acceleration," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018.
-* **[TCAD'18]** S. Yin, S. Tang, X. Lin, P. Ouyang, **F. Tu**, L. Liu, S. Wei, "A High Throughput Acceleration for Hybrid Neural Networks with Efficient Resource Management on FPGA," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018.
-* **[DAC'18]** X. Lin, S. Yin, **F. Tu**, L. Liu, X. Li, S. Wei, "LCP: A Layer Clusters Paralleling Mapping Method for Accelerating Inception and Residual Networks on FPGA," Design Automation Conference (DAC), San Francisco, USA, 2018. (**Acceptance Rate: 24.3%**)
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Duo Wang, **Mingyu Yan**, Xin Liu, Mo Zou, Tianyu Liu, Wenming Li, Xiaochun Ye, and Dongrui Fan.}
+{``A High-accurate Multi-objective Exploration Framework for Design Space of CPU."}
+{\emph{in 60th ACM/IEEE Design Automation Conference (DAC)}, 2023.}
+}
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Duo Wang, **Mingyu Yan**, Yihan Teng, Dengke Han, Haoran Dang, Xiaochun Ye, and Dongrui Fan.}
+{``A Transfer Learning Framework for High-Accurate Cross-Workload Design Space Exploration of CPU."}
+{\emph{in IEEE/ACM International Conference on Computer Aided Design (ICCAD)}, 2023.}
+}
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Xiaocheng Yang, **Mingyu Yan**, Shirui Pan, Xiaochun Ye, and Dongrui Fan.}
+{``Simple and Efficient Heterogeneous Graph Neural Network."}
+{\emph{in AAAI Conference on Artificial Intelligence (AAAI)}, 2023.}
+}
+
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Xin Liu, **Mingyu Yan**, Shuhan Song, Zhengyang Lv, Wenming Li, Guangyu Sun, Xiaochun Ye, and Dongrui Fan.}
+{``GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware."}
+{\emph{in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)}, 2022.}
+}
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Long Tan, **Mingyu Yan**, Xiaochun Ye, and Dongrui Fan.}
+{``HetGraph: A High Performance CPU-CGRA Architecture for Matrix-based Graph Analytics."}
+{\emph{in Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI)}, 2022.}
+}
+
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Haiyang Lin, **Mingyu Yan**, Duo Wang, Mo Zuo, Fengbin Tu, Xiaochun Ye, Dongrui Fan, and Yuan Xie.}
+{``Alleviating Datapath Conflicts and Design Centralization in Graph Analytics Acceleration."}
+{\emph{in the 59th Design Automation Conference (DAC)}, 2022.}
+}
+
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Xin Liu, **Mingyu Yan**, Lei Deng, Guoqi Li, Xiaochun Ye, Dongrui Fan, Shirui Pan, and Yuan Xie.}
+{``Survey on Graph Neural Network Acceleration: An Algorithmic Perspective."}
+{\emph{in Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI)}, 2022.}
+}
+
+ 
+{[C\refstepcounter{paperno}\thepaperno].\label{SEKE2021}}
+{{Wei Xuan, Huawei Cao, **Mingyu Yan**, Zhimin Tang, Xiaochun Ye, and Dongrui Fan.}
+{``Triangle Counting by Adaptively Resampling over Evolving Graph Streams."}
+{\emph{in the 33rd International Conference on Software Engineering and Knowledge Engineering (SEKE)}, 2021.}
+}
+
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{{Haiyang Lin, **Mingyu Yan**, Duo Wang, Wenming Li, Xiaochun Ye, Zhimin Tang, and Dongrui Fan.}
+{``Alleviating Imbalance in Synchronous Distributed Training of Deep Neural Networks."}
+{\emph{in 2021 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)}, 2021.}
+}
+
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{Zhaodong Chen, **Mingyu Yan**, Maohua Zhu, Lei Deng, Guoqi Li, Shuangchen Li, and Yuan Xie.}
+{``fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU."}
+{{\emph{in Proceedings of International Conference on Computer Aided Design (ICCAD)}, 2020.}}
+
+{[C\refstepcounter{paperno}\thepaperno].\label{HyGCN}}
+{**Mingyu Yan**, Lei Deng, Xing Hu, Ling Liang, Yujing Feng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, and Yuan Xie.}
+{``HyGCN: A GCN Accelerator with Hybrid Architecture."}
+{{\emph{in the 26th IEEE International Symposium on High-Performance Computer Architecture (HPCA)}, 2020.}}
+
+{[C\refstepcounter{paperno}\thepaperno].\label{GraphDynS}}
+{**Mingyu Yan**, Xing Hu, Shuangchen Li, Abanti Basak, Han Li, Xin Ma, Itir Akgun, Yujing Feng, Peng Gu, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, and Yuan Xie.}
+{``Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach."}
+{{\emph{in Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.}}}
+
+{[C\refstepcounter{paperno}\thepaperno].}
+{**Mingyu Yan**, Xing Hu, Shuangchen Li, Itir Akgun, Han Li, Xin Ma, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, and Yuan Xie.}
+{``Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators."}
+{{\emph{in IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2019.}}}
+
