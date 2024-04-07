@@ -106,6 +106,6 @@ Address: Room 390, Building 1, Institute of Computing Technology, Chinese Academ
 
 Email: yanmingyu at ict dot ac dot cn
 <br/><br/>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fa9RQj-cgl1m5eQQQyP1VHu5hbgUfLQa-PSsV3Cc58w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1JR2-3nZm0KxPxtzgXZkGnMxjajclUZ3xvTtuV4QoA0&cl=ffffff&w=a"></script>
 
 
