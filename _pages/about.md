@@ -11,7 +11,7 @@ redirect_from:
 **Associate Professor**
 **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
 
-Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. Mingyu has published over 15 research papers in top-tier conferences and journals, including MICRO, HPCA, DAC, ICCAD, AAAI, IJCAI, PIEEE, IEEE TC, IEEE TCAD, IEEE/CAA JAS, and IEEE J-STSP. He has served as a TPC member for HPCA 2024, ICS 2024, and IJCAI 2024, an ERC member for ISCA 2024, and a reviewer for various journals including IEEE TPDS, IEEE TPAMI, IEEE CAL, Frontiers in Neuroscience, and others. He is a recipient of the First Prize in the Beijing Science and Technology Award and the Outstanding Doctoral Dissertation Award from the China Computer Federation. Additionally, he has been selected for the Young Talent Development Program of the China Computer Federation, the member of Youth Innovation Promotion Association of Chinese Academy of Sciences, and the Youth Team Program in Basic Research of the Chinese Academy of Sciences.
+Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. He has published over 15 research papers in top-tier conferences and journals, including MICRO, HPCA, DAC, ICCAD, AAAI, IJCAI, PIEEE, IEEE TC, IEEE TCAD, IEEE/CAA JAS, and IEEE J-STSP. He has served as a TPC member for HPCA 2024, ICS 2024, and IJCAI 2024, an ERC member for ISCA 2024, and a reviewer for various journals including IEEE TPDS, IEEE TPAMI, IEEE CAL, Frontiers in Neuroscience, and others. He is a recipient of the First Prize in the Beijing Science and Technology Award and the Outstanding Doctoral Dissertation Award from the China Computer Federation. Additionally, he has been selected for the Young Talent Development Program of the China Computer Federation, the member of Youth Innovation Promotion Association of Chinese Academy of Sciences, and the Youth Team Program in Basic Research of the Chinese Academy of Sciences.
 
 
 ## Research Interests
@@ -20,7 +20,7 @@ Computer Architecture, Graph Machine Learning, Design Space Exploration
 ## Professional Experience
 Jul. 2020 - Present: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
 * **Associate Professor** (Since Oct. 2022)
-* **Assistant Professor** (July. 2020 - Sep. 2022)
+* **Assistant Professor** (Jul. 2020 - Sep. 2022)
 
 
 ## Education Experience
@@ -38,10 +38,10 @@ Jan. 2018 - Feb. 2020: **University of California, Santa Barbara (UCSB)**
 
 ## Academic Services
 ### Conference TPC/ERC Member
-* IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024 TPC)
-* International Symposium on Computer Architecture (ISCA 2024 ERC)
-* ACM International Conference on Supercomputing (ICS 2024 TPC)
-* International Joint Conference on Artificial Intelligence (IJCAI 2024 Survey Track TPC)
+* IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024)
+* International Symposium on Computer Architecture (ISCA 2024)
+* ACM International Conference on Supercomputing (ICS 2024)
+* International Joint Conference on Artificial Intelligence (IJCAI 2024)
 
 ### Journal Editor
 * Frontiers in Neuroscience (Member in Editorial Board, 2022 - Present)
