@@ -12,63 +12,16 @@ author_profile: true
 ## Journal Papers
 * **[JSSC'24]** **F. Tu**,  Z. Wu, Y. Wang, W. Wu, L. Liu, Y. Hu, S. Wei, S. Yin, "[MulTCIM: Digital Computing-In-Memory-based Multimodal Transformer Accelerator with Attention-Token-Bit Hybrid Sparsity](https://ieeexplore.ieee.org/document/10226612)," IEEE Journal of Solid-State Circuits (JSSC), 2024. (**Invited Paper**, ISSCC'23 Extension)
 * **TCAD 2024** Duo Wang, **Mingyu Yan**, Yihan Teng, Dengke Han, Xin Liu, Wenming Li, Xiaochun Ye, and Dongrui Fan. "[MoDSE: A High-Accurate Multi-Objective Design Space Exploration Framework for CPU Microarchitectures](https://ieeexplore.ieee.org/abstract/document/10345735)." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2024.
-* **[PIEE 2024]** Haiyang Lin, **Mingyu Yan**, Xiaochun Ye, Dongrui Fan, Shirui Pan, Wenguang Chen, and Yuan Xie.}
-  {``A Comprehensive Survey on Distributed Training of Graph Neural Networks."}
-  { Proceedings of the IEEE (PIEEE), 2023}  
-  
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Gongjian Sun, **Mingyu Yan**, Duo Wang, Han Li, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie.}
-  {``Multi-Node Acceleration for Large-Scale GCNs."}
-  { IEEE Transactions on Computers (IEEE TC), 2022}  
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Haiyang Lin, **Mingyu Yan**, Xiaocheng Yang, Mo Zou, Wenming Li, Xiaochun Ye, and Dongrui Fan.}
-  {``Characterizing and Understanding Distributed GNN Training on GPUs."}
-  { IEEE Computer Architecture Letters (IEEE CAL), 2022}  
-
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Xin Liu, **Mingyu Yan**, Lei Deng, Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, and Dongrui Fan.}
-  {``General Spiking Neural Network Framework for the Learning Trajectory from A Noisy mmWave Radar."}
-  { Neuromorphic Computing and Engineering (NCE), 2022}    
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {**Mingyu Yan**, Mo Zou, Xiaocheng Yang, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie.}
-  {``Characterizing and Understanding HGNNs on GPUs."}
-  {IEEE Computer Architecture Letters (IEEE CAL), 2022}  
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Xin Liu, **Mingyu Yan**, Lei Deng, Guoqi Li, Xiaochun Ye, and Dongrui Fan.}
-  {``Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey."}
-  {IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS), 2022}  
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Han Li, **Mingyu Yan**, Xiaocheng Yang, Lei Deng, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie.}
-  {``Hardware Acceleration for GCNs via Bidirectional Fusion."}
-  {IEEE Computer Architecture Letters (IEEE CAL), 2021}
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, **Mingyu Yan**, Lei Deng, Yufei Ding, Zidong Du, and Yuan Xie.}
-  {``Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training."}
-  {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2021}
-
-
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Wei Xuan, Huawei Cao, **Mingyu Yan**, Zhimin Tang, Xiaochun Ye, and Dongrui Fan.}
-  {``BSR-TC: Adaptively Sampling for Accurate Triangle Counting over Evolving Graph Streams."}
-  {International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2021}
-
-  
-{[J\refstepcounter{paperno}\thepaperno].}
-  {Ling Liang, Jianyu Xu, Lei Deng, **Mingyu Yan**, Xing Hu, Zheng Zhang, Guoqi Li, and Yuan Xie.}
-  {``Fast Search of the Optimal Contraction Sequence in Tensor Networks."}
-  {IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), 2021}
-
-
-{[J\refstepcounter{paperno}\thepaperno].\label{GCN_Characterization}}
-  {**Mingyu Yan**, Zhaodong Chen, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie  }
-  {`` Characterizing and Understanding GCNs on GPU."}
-  {in IEEE Computer Architecture Letters (IEEE CAL), 2020}
+* **[PIEEE 2024]** Haiyang Lin, **Mingyu Yan**, Xiaochun Ye, Dongrui Fan, Shirui Pan, Wenguang Chen, and Yuan Xie. "A Comprehensive Survey on Distributed Training of Graph Neural Networks." Proceedings of the IEEE (PIEEE), 2023.
+* **[IEEE TC 2024]** Gongjian Sun, **Mingyu Yan**, Duo Wang, Han Li, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie. "Multi-Node Acceleration for Large-Scale GCNs." IEEE Haiyang * **[IEEE CAL 2022]** Lin, **Mingyu Yan**, Xiaocheng Yang, Mo Zou, Wenming Li, Xiaochun Ye, and Dongrui Fan. "Characterizing and Understanding Distributed GNN Training on GPUs." IEEE Computer Architecture Letters (IEEE CAL), 2022.
+* **[NCE 2022]** Xin Liu, **Mingyu Yan**, Lei Deng, Yujie Wu, De Han, Guoqi Li, Xiaochun Ye, and Dongrui Fan. "General Spiking Neural Network Framework for the Learning Trajectory from A Noisy mmWave Radar." Neuromorphic Computing and Engineering (NCE), 2022. 
+* **[IEEE CAL 2022]** **Mingyu Yan**, Mo Zou, Xiaocheng Yang, Wenming Li, Xiaochun Ye, Dongrui Fan, Yuan Xie. "Characterizing and Understanding HGNNs on GPUs." IEEE Computer Architecture Letters (IEEE CAL), 2022.
+* **[IEEE/CAA JAS]** Xin Liu, **Mingyu Yan**, Lei Deng, Guoqi Li, Xiaochun Ye, and Dongrui Fan. "Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey." IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS), 2022.
+* **[IEEE CAL 2022]** Han Li, **Mingyu Yan**, Xiaocheng Yang, Lei Deng, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie. "Hardware Acceleration for GCNs via Bidirectional Fusion." IEEE Computer Architecture Letters (IEEE CAL), 2021.
+* **[IEEE TCAD]** Xiaobing Chen, Yuke Wang, Xinfeng Xie, Xing Hu, Abanti Basak, Ling Liang, **Mingyu Yan**, Lei Deng, Yufei Ding, Zidong Du, and Yuan Xie. "Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2021.
+* **IJSEKE 2021** Wei Xuan, Huawei Cao, **Mingyu Yan**, Zhimin Tang, Xiaochun Ye, and Dongrui Fan. "BSR-TC: Adaptively Sampling for Accurate Triangle Counting over Evolving Graph Streams." International Journal of Software Engineering and Knowledge Engineering (IJSEKE), 2021.
+* **[IEEE JSTSP 2021]** Ling Liang, Jianyu Xu, Lei Deng, **Mingyu Yan**, Xing Hu, Zheng Zhang, Guoqi Li, and Yuan Xie. "Fast Search of the Optimal Contraction Sequence in Tensor Networks." IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP), 2021.
+* **[IEEE CAL 2020]** **Mingyu Yan**, Zhaodong Chen, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, Yuan Xie. "Characterizing and Understanding GCNs on GPU." IEEE Computer Architecture Letters (IEEE CAL), 2020.
 
 
 
