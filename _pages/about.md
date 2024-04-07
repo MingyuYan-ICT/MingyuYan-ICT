@@ -11,58 +11,49 @@ redirect_from:
 **Associate Professor**
 **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
 
-Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. His research focuses on \textit{computer architecture} and \textit{artificial intelligence}, particularly in domain-specific architecture for graph processing, graph machine learning, neural networks, and design space exploration on CPU and domain-specific architecture. He has authored 1 book and 28 papers, cited 710 times as of March 18, 2024, and holds over 20 filed or authorized patents in \textit{computer architecture} and \textit{artificial intelligence}. Yan has published 15 research papers in top-tier conferences and journals, including\textit{ MICRO, HPCA, DAC, ICCAD, AAAI, IJCAI}, Proceedings of the IEEE (PIEEE), IEEE Transactions on Computers (IEEE TC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS), and IEEE Journal of Selected Topics in Signal Processing (IEEE J-STSP). 
+Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. His research focuses on \textit{computer architecture} and \textit{artificial intelligence}, particularly in domain-specific architecture for graph processing, graph machine learning, neural networks, and design space exploration on CPU and domain-specific architecture. He has authored 1 book and 28 papers, cited 710 times as of March 18, 2024, and holds over 20 filed or authorized patents in \textit{computer architecture} and \textit{artificial intelligence}. Yan has published 15 research papers in top-tier conferences and journals, including\textit{MICRO, HPCA, DAC, ICCAD, AAAI, IJCAI}, Proceedings of the IEEE (PIEEE), IEEE Transactions on Computers (IEEE TC), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS), and IEEE Journal of Selected Topics in Signal Processing (IEEE J-STSP). 
 
 
 ## Research Interests
-AI Chip, Computer Architecture, Reconfigurable Computing, Computing-In-Memory
+Computer Architecture, Graph Machine Learning, Design Space Exploration
 
 ## Professional Experience
-Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
-* **Assistant Professor** (Since Jun. 2023)
-* **Adjunct Assistant Professor** (Oct. 2022 - Jun. 2023)
-* Department of Electronic and Computer Engineering 
+Jul. 2020 - Present: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
+* **Associate Professor** (Since Oct. 2022)
+* **Assistant Professor** (July. 2020 - Sep. 2022)
 
-May 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
-* **Faculty Member** (Since Jun. 2023)
-* **Postdoctoral Fellow** (May. 2022 - Jun. 2023), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui)
-
-Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
-* **Postdoctoral Scholar**, working with Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie) and Prof. [Yufei Ding](https://picassolab.squarespace.com/yufei)
-* Scalable Energy-efficient Architecture Lab (SEAL)
-* Department of Electrical and Computer Engineering   
 
 ## Education Experience
-Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
-* **Ph.D.** in Electronic Science and Technology
-* Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
-  - Tsinghua Excellent Dissertation Award
-  - Advisor: Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm)
-* Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics 
+Sep. 2014 - Jul. 2020: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
+* **Ph.D.** in Computer Architecture
+* Dissertation: **Domain-specific Architecture for Graph Processing**
+  - Outstanding Doctoral Dissertation Award of China Computer Federation
+  - Advisor: Prof. Zhimin Zhang
 
-Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
-* **B.S.** in Electronic Science and Technology 
-* Beijing Outstanding Graduate (5%), GPA Rank 1/255 in the School of Electronic Engineering
+Jan. 2018 - Feb. 2020: **University of California, Santa Barbara (UCSB)**
+* **Co-advised Ph.D.** in Computer Architecture
+* Dissertation: **Domain-specific Architecture for Graph Processing**
+  - Outstanding Doctoral Dissertation Award of China Computer Federation
+  - Advisor: Prof. Yuan Xie
 
 ## Academic Services
-### Conference TPC Member
-* Design Automation Conference (DAC 2022 - 2024)
-* Asia and South Pacific Design Automation Conference (ASP-DAC 2023)
-* IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+### Conference TPC/ERC Member
+* IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024 TPC)
+* International Symposium on Computer Architecture (ISCA 2024 ERC)
+* ACM International Conference on Supercomputing (ICS 2024 TPC)
+* International Joint Conference on Artificial Intelligence (IJCAI 2024 Survey Track TPC)
 
 ### Journal Editor
-* SCIENCE CHINA Information Sciences (Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
-* Journal of Semiconductors (Youth Editorial Board Member, JOS 2024 - Present)
+* Frontiers in Neuroscience (Member in Editorial Board, JOS 2022 - Present)
 
 ### Journal Reviewer
-* IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
-* IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I 2023 - Present)
-* IEEE Transactions on Computers (TC 2024 - Present)
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021 - Present)
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023 - Present)
-* IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS 2022 - Present)
-* IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS 2021 - Present)
-* IEEE Micro (2021 - Present)
+IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Computer Architecture Letters (IEEE CAL), Frontiers in Neuroscience, and others. He has also joined the editorial board of Frontiers in Neuroscience, one of the world's largest and most cited neuroscience journal series, as a review editor. 
+
+### Journal Editor
+* Frontiers in Neuroscience (Youth Editorial Board Member, JOS 2024 - Present)
+
+### Journal Reviewer
+IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), IEEE Computer Architecture Letters (IEEE CAL), Frontiers in Neuroscience, and others. He has also joined the editorial board of Frontiers in Neuroscience, one of the world's largest and most cited neuroscience journal series, as a review editor. 
 
 ## Honors and Awards
 * Selected for Member of Youth Innovation Promotion Association of Chinese Academy of Sciences
