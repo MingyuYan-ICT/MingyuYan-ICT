@@ -17,6 +17,6 @@ author_profile: true
 
 ## Alumni
 
-<figure>
+<center class="half">
 <img src="/MingyuYan-ICT/images/lushengjian.jpeg" width=200/><img src="/MingyuYan-ICT/images/lihan.jpeg" width=200/><img src="/MingyuYan-ICT/images/tanlong_zoumo.jpeg" width=200/>
-</figure>
+</center>
