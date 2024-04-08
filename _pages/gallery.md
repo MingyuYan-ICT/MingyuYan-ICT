@@ -4,6 +4,8 @@ permalink: /gallery/
 author_profile: true
 ---
 
+<img src='/images/500x300.png'>
+
 ## Our Team-GIMLab
 <img src='/images/jucan_2023_09.jpeg'>
 
