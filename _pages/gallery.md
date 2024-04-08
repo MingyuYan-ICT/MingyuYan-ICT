@@ -10,7 +10,5 @@ author_profile: true
 
 ![这是图片](https://github.com/MingyuYan-ICT/MingyuYan-ICT/blob/master/images/mstile-310x310.png "Magic Gardens")
 
-<img src="https://github.com/MingyuYan-ICT/MingyuYan-ICT/blob/master/images/mstile-310x310.png />
-
 <img src="/images/mstile-310x310.png" />
 
