@@ -6,7 +6,8 @@ author_profile: true
 
 ## Our Team-GIMLab
 
-<img src="/MingyuYan-ICT/images/jucan_2023_09.jpeg" />
+<img src="/MingyuYan-ICT/images/jucan_2023_09.jpeg" width=450 />
+
 
 ## Happy Moment
 
