@@ -6,9 +6,20 @@ author_profile: true
 
 ## Our Team-GIMLab
 
-![这是图片](/images/mstile-310x310.png "Magic Gardens")
+<img src="/images/jucan_2023_09.jpeg" />
 
-![这是图片](https://github.com/MingyuYan-ICT/MingyuYan-ICT/blob/master/images/mstile-310x310.png "Magic Gardens")
+## Happy Moment
 
-<img src="/images/mstile-310x310.png" />
+<figure>
+<img src="/images/xiangshang2022_10.jpeg" width=300/>
+<img src="/images/ccf_youbo.jpeg" width=300/>
+</figure>
 
+
+## Alumni
+
+<figure>
+<img src="/images/lushengjian.jpeg" width=200/>
+<img src="/images/lihan.jpeg" width=200/>
+<img src="/images/tanlong_zoumo.jpeg" width=200/>
+</figure>
