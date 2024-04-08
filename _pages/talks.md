@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach
-* MICRO 2019, Columbus, Ohio, USA, Oct. 2019.
+* MICRO 2019, Columbus, Ohio, USA, Oct. 2019.
 * Huawei, Beijing, China, Jun. 2020.
 
 ### HyGCN: A GCN Accelerator with Hybrid Architecture
@@ -21,11 +21,11 @@ author_profile: true
 * Huawei and Tsinghua University, Beijing, China, Oct. 2021.
 
 ### Multi-node Acceleration for Large-scale GCNs
-* CCF Young Talent Development Program Workshop, Beijing, China, Feb. 2023.
+* CCF Young Talent Development Program Workshop, Beijing, China, Feb. 2023.
 * Tsinghua University, Beijing, China, Jan. 2023.
 
 ### Software and Hardware Co-design for Graph Algorithm Acceleration
-* CCF Youth Elite Conference, Wenzhou, China, May. 2023.
+* CCF Youth Elite Conference, Wenzhou, China, May. 2023.
 * CCFSys, Jiangxi, China, Aug. 2023.
 * CCF Outstanding Doctoral Forum, Harbin, China, Aug. 2023.
 * Institute of Computing Technology, Chinese Academy of Sciences, CAS, Beijing, China, Aug. 2023.
