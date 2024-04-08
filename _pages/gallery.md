@@ -10,9 +10,9 @@ author_profile: true
 
 ## Happy Moment
 
-<figure>
+<center class="half">
 <img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=300/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
-</figure>
+</center>
 
 
 ## Alumni
