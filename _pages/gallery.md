@@ -6,6 +6,7 @@ author_profile: true
 
 ## Our Team-GIMLab
 
+<img src="/images/mstile-310x310.png" />
 <img src="/images/jucan_2023_09.jpeg" />
 
 ## Happy Moment
