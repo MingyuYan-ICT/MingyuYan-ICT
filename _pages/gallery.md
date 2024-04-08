@@ -28,8 +28,8 @@ Team building in Haidian, Beijing, China.
 </center>
 
 <center class="half">
-*Shengjian Lu (M.S. 2021) Now at Thead  
-*Han Li (Ph.D., 2022) Now at NVIDIA
-*Mo Zou (Ph.D., 2023) Now at ICT, CAS
-*Long Tan (Ph.D., 2024) 
+* Shengjian Lu (M.S. 2021) Now at Thead  
+* Han Li (Ph.D., 2022) Now at NVIDIA
+* Mo Zou (Ph.D., 2023) Now at ICT, CAS
+* Long Tan (Ph.D., 2024) 
 </center>
