@@ -4,11 +4,8 @@ permalink: /gallery/
 author_profile: true
 ---
 
-
 ## Our Team-GIMLab
-
-<img src='/images/jucan_2023_09.jpeg.png'>
-
+<img src='/images/jucan_2023_09.jpeg'>
 
 ## Happy Moment
 
