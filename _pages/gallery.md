@@ -21,6 +21,14 @@ Team building in Haidian, Beijing, China.
 </center>
 
 
+<center class="half">
+<img src="/MingyuYan-ICT/images/daoshi_hezhao.png" width=600 />
+</center>
+<center class="half">
+My doctoral and postdoctoral advisors: Prof. Zhimin Zhang, Prof. Yuan Xie, and Prof. Dongrui Fan.
+</center>
+
+
 ## Alumni
 
 <center class="half">
