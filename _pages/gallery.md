@@ -1,25 +1,7 @@
 ---
-title: "Gallery"
-permalink: /gallery/
-author_profile: true
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
-## Our Team-GIMLab
-
-<img src="/images/jucan_2023_09.jpeg" />
-
-## Happy Moment
-
-<figure>
-<img src="/images/xiangshang2022_10.jpeg" width=300/>
-<img src="/images/ccf_youbo.jpeg" width=300/>
-</figure>
-
-
-## Alumni
-
-<figure>
-<img src="/images/lushengjian.jpeg" width=200/>
-<img src="/images/lihan.jpeg" width=200/>
-<img src="/images/tanlong_zoumo.jpeg" width=200/>
-</figure>
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
