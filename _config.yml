@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Mingyu Yan"
+name                     : &name "Mingyu Yan (严明玉)"
 description              : &description "personal description"
 url                      : https://mingyuyan-ict.github.io/MingyuYan-ICT # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
