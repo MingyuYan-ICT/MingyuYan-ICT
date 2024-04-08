@@ -4,4 +4,4 @@ permalink: /gallery/
 author_profile: true
 ---
 
-<img src='/images/500x300.png'>
+<img src='/MingyuYan-ICT/images/500x300.png'>
