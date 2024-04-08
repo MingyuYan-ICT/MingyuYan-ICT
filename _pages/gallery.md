@@ -8,7 +8,8 @@ author_profile: true
 
 <center class="half">
 <img src="/MingyuYan-ICT/images/jucan_2023_09.jpeg" width=600 />
-  Our team's dinner gathering in Haidian, Beijing, China.
+  
+Our team's dinner gathering in Haidian, Beijing, China.
 </center>
 
 
@@ -23,8 +24,9 @@ author_profile: true
 
 <center class="half">
 <img src="/MingyuYan-ICT/images/lushengjian.jpeg" width=200/><img src="/MingyuYan-ICT/images/lihan.jpeg" width=200/><img src="/MingyuYan-ICT/images/tanlong_zoumo.jpeg" width=200/>
-Shengjian Lu (M.S. 2021) Now at Thead  
-Han Li (Ph.D., 2022) Now at NVIDIA
-Mo Zou (Ph.D., 2023) Now at ICT, CAS
-Long Tan (Ph.D., 2024) 
+
+*Shengjian Lu (M.S. 2021) Now at Thead  
+*Han Li (Ph.D., 2022) Now at NVIDIA
+*Mo Zou (Ph.D., 2023) Now at ICT, CAS
+*Long Tan (Ph.D., 2024) 
 </center>
