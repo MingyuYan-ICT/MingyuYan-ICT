@@ -12,8 +12,8 @@ main:
   #- title: "Advice"
   #  url: /advice/
     
-  #- title: "Gallery"
-  #  url: /gallery/
+  - title: "Gallery"
+    url: /gallery/
         
   #- title: "CV"
   #  url: /cv/
