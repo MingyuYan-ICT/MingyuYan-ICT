@@ -6,6 +6,8 @@ author_profile: true
 
 ## Our Team-GIMLab
 
+![这是图片](/images/mstile-310x310.png "Magic Gardens")
+
 ![这是图片](https://github.com/MingyuYan-ICT/MingyuYan-ICT/blob/master/images/mstile-310x310.png "Magic Gardens")
 
 <img src="https://github.com/MingyuYan-ICT/MingyuYan-ICT/blob/master/images/mstile-310x310.png />
