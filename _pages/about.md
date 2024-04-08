@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingyu Yan"
+title: "Mingyu Yan (严明玉)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
