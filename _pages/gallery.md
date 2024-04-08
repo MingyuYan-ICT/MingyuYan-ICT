@@ -17,7 +17,7 @@ Team building in Haidian, Beijing, China.
 ## Happy Moment
 
 <center class="half">
-<img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=280/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
+<img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=270/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
 </center>
 
 
@@ -25,7 +25,7 @@ Team building in Haidian, Beijing, China.
 <img src="/MingyuYan-ICT/images/daoshi_hezhao.png" width=600 />
 </center>
 <center class="half">
-My doctoral and postdoctoral advisors: Prof. Zhimin Zhang, Prof. Yuan Xie, and Prof. Dongrui Fan.
+My doctor and postdoctor advisors: Prof. Zhimin Zhang, Prof. Yuan Xie, and Prof. Dongrui Fan.
 </center>
 
 
