@@ -1,7 +1,10 @@
 ---
+permalink: /
 title: "Gallery"
-permalink: /gallery/
 author_profile: true
+redirect_from: 
+  - /gallery/
+  - /gallery.html
 ---
 
 ## Our Team-GIMLab
