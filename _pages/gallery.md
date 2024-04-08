@@ -17,7 +17,7 @@ Team building in Haidian, Beijing, China.
 ## Happy Moment
 
 <center class="half">
-<img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=260/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
+<img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=280/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
 </center>
 
 
@@ -28,8 +28,10 @@ Team building in Haidian, Beijing, China.
 </center>
 
 <center class="half">
+  
 * Shengjian Lu (M.S. 2021) Now at Thead  
 * Han Li (Ph.D., 2022) Now at NVIDIA
 * Mo Zou (Ph.D., 2023) Now at ICT, CAS
-* Long Tan (Ph.D., 2024) 
+* Long Tan (Ph.D., 2024)
+  
 </center>
