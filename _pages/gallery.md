@@ -1,4 +1,4 @@
----
+<img width="359" alt="image" src="https://github.com/MingyuYan-ICT/MingyuYan-ICT/assets/61632580/5045eb35-f5ef-489e-99fa-2d620704c021"><img width="304" alt="image" src="https://github.com/MingyuYan-ICT/MingyuYan-ICT/assets/61632580/07183256-d450-4fd5-a241-1f1728555317">---
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
@@ -16,11 +16,12 @@ Team building in Haidian, Beijing, China.
 
 ## Happy Moment
 
+### Group Activities of GIMLab
 <center class="half">
 <img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=265/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
 </center>
 
-
+### Together with Advisors
 <center class="half">
 <img src="/MingyuYan-ICT/images/daoshi_hezhao.png" width=600 />
 </center>
@@ -28,6 +29,29 @@ Team building in Haidian, Beijing, China.
 My doctor and postdoctor advisors: Prof. Zhimin Zhang, Prof. Yuan Xie, and Prof. Dongrui Fan.
 </center>
 
+### HPCA 2020 Held at San Diego, California, USA, February 22-26, 2020.
+
+<center class="half">
+<img src="/MingyuYan-ICT/images/HPCA_2020.png" width=600 />
+</center>
+
+### MICRO 2019 Held at Columbus, Ohio, USA, October 12-16, 2019.
+
+<center class="half">
+<img src="/MingyuYan-ICT/images/MICRO_2019.png" width=600 />
+</center>
+
+### Hot Chips 2019 Held at Stanford University, Palo Alto, California, USA, August 18-20, 2019.
+
+<center class="half">
+<img src="/MingyuYan-ICT/images/Hotchips_2019.png" width=600 />
+</center>
+
+### Group Activities of Scalable Energy-efficient Architecture Lab at UCSB
+
+<center class="half">
+<img src="/MingyuYan-ICT/images/XieGroup2018_2020.png" width=600 />
+</center>
 
 ## Alumni
 
