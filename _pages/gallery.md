@@ -16,7 +16,7 @@ Team building in Haidian, Beijing, China.
 
 ## Happy Moment
 
-### Group Activities of GIMLab
+###Group Activities of GIMLab
 <center class="half">
 <img src="/MingyuYan-ICT/images/xiangshang2022_10.jpeg" width=265/><img src="/MingyuYan-ICT/images/ccf_youbo.jpeg" width=300/>
 </center>
