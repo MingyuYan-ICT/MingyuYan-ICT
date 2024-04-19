@@ -54,7 +54,7 @@ My doctor and postdoctor advisors: Prof. Zhimin Zhang, Prof. Yuan Xie, and Prof.
 <img src="/MingyuYan-ICT/images/XieGroup2018_2020.png" width=600 />
 </center>
 
-### <center> Alumni </center>
+## <center> Alumni </center>
 
 <center class="half">
 <img src="/MingyuYan-ICT/images/lushengjian.jpeg" width=200/><img src="/MingyuYan-ICT/images/lihan.jpeg" width=200/><img src="/MingyuYan-ICT/images/tanlong_zoumo.jpeg" width=200/>
