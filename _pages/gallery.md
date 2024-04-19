@@ -1,4 +1,4 @@
-<img width="359" alt="image" src="https://github.com/MingyuYan-ICT/MingyuYan-ICT/assets/61632580/5045eb35-f5ef-489e-99fa-2d620704c021"><img width="304" alt="image" src="https://github.com/MingyuYan-ICT/MingyuYan-ICT/assets/61632580/07183256-d450-4fd5-a241-1f1728555317">---
+---
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
