@@ -39,8 +39,8 @@ author_profile: true
 ## A survey on sampling methods for efficient training of graph convolutional networks is accepted by IEEE/CAA JAS.
 * **[IEEE/CAA JAS 2022]** "[Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9601152/)." IEEE/CAA Journal of Automatica Sinica (IEEE/CAA JAS), 2022.
 
-## A hardware accelerator for graph convolutional networks (GCNs) is accepted by HPCA'20.
+## HyGCN, a hardware accelerator for graph convolutional networks (GCNs) is accepted by HPCA'20.
 * * **[HPCA'20]** "[HyGCN: A GCN Accelerator with Hybrid Architecture](https://ieeexplore.ieee.org/abstract/document/9065592/)." in the 26th IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2020.
 
-## A hardware accelerator for graph analytics is accepted by MICRO'19.    
+## GraphDynS, a hardware accelerator for graph analytics is accepted by MICRO'19.    
 * **[MICRO'19]** "[Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach](https://dl.acm.org/doi/abs/10.1145/3352460.3358318)." in Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.
