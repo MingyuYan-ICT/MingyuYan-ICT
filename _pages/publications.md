@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
+* **[TPDS 2024]** Runzhen Xue, Dengke Han, **Mingyu Yan**, Mo Zou, Xiaocheng Yang, Duo Wang, Wenming Li, Zhimin Tang, John Kim, Xiaochun Ye, and Dongrui Fan. "[HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation](https://arxiv.org/pdf/2307.12765).", IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2024.
 * **[TCAD 2024]** Duo Wang, **Mingyu Yan**, Yihan Teng, Dengke Han, Xin Liu, Wenming Li, Xiaochun Ye, and Dongrui Fan. "[MoDSE: A High-Accurate Multi-Objective Design Space Exploration Framework for CPU Microarchitectures](https://ieeexplore.ieee.org/abstract/document/10345735)." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), 2024.
 * **[PIEEE 2024]** Haiyang Lin, **Mingyu Yan**, Xiaochun Ye, Dongrui Fan, Shirui Pan, Wenguang Chen, and Yuan Xie. "[A Comprehensive Survey on Distributed Training of Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10348966/)." Proceedings of the IEEE (PIEEE), 2023.
 * **[IEEE TC 2024]** Gongjian Sun, **Mingyu Yan**, Duo Wang, Han Li, Wenming Li, Xiaochun Ye, Dongrui Fan, and Yuan Xie. "[Multi-Node Acceleration for Large-Scale GCNs](https://ieeexplore.ieee.org/abstract/document/9893364/)." IEEE Transactions on Computers (IEEE TC), 2022
