@@ -18,21 +18,21 @@ Mingyu Yan is currently an associate professor at the Institute of Computing Tec
 Computer Architecture, Graph Machine Learning, Design Space Exploration
 
 ## Professional Experience
-Jul. 2020 - Present: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
+Jul. 2020 - Present: **ICT, CAS**
 * **Associate Professor** (Since Oct. 2022)
 * **Assistant Professor** (Jul. 2020 - Sep. 2022)
 
 
 ## Education Experience
-Sep. 2014 - Jul. 2020: **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
+Sep. 2014 - Jul. 2020: **ICT, CAS**
 * **Ph.D.** in Computer Architecture
-* Dissertation: **Domain-specific Architecture for Graph Processing**
+* Dissertation: Domain-specific Architecture for Graph Processing
   - Outstanding Doctoral Dissertation Award of China Computer Federation
   - Advisor: Prof. Zhimin Zhang
 
 Jan. 2018 - Feb. 2020: **University of California, Santa Barbara (UCSB)**
 * **Co-advised Ph.D.** in Computer Architecture
-* Dissertation: **Domain-specific Architecture for Graph Processing**
+* Dissertation: Domain-specific Architecture for Graph Processing
   - Outstanding Doctoral Dissertation Award of China Computer Federation
   - Advisor: Prof. Yuan Xie
 
