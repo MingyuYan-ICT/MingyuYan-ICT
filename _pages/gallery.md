@@ -10,9 +10,15 @@ author_profile: true
 <img src="/MingyuYan-ICT/images/jucan_2023_09.jpeg" width=600 />
 </center>
 <center class="half">
-Team building in Haidian, Beijing, China.
+Team building 202309 in Haidian, Beijing, China.
 </center>
 
+<center class="half">
+<img src="/MingyuYan-ICT/images/team building 202406.JPG" width=600 />
+</center>
+<center class="half">
+Team building 202406 in Haidian, Beijing, China.
+</center>
 
 ## Happy Moment
 
