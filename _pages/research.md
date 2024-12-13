@@ -27,7 +27,7 @@ author_profile: true
 - [A Comprehensive Survey on Distributed Training of Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10348966/) **(PIEEE 2023)**
 - [GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_30) **(ECML-PKDD'22)**
 - [Survey on Graph Neural Network Acceleration: An Algorithmic Perspective](https://arxiv.org/abs/2202.04822) **(IJCAI'22)**
-- [DropNaE: Alleviating Irregularity for Large-scale Graph Representation Learning](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4616038) (Neural Networks 2024**)
+- [DropNaE: Alleviating Irregularity for Large-scale Graph Representation Learning](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4616038) (**Neural Networks 2024**)
 - [fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://dl.acm.org/doi/abs/10.1145/3400302.3415610) **(ICCAD'20)**
 - [Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9601152/) **(IEEE/CAA JAS 2022)**
   
