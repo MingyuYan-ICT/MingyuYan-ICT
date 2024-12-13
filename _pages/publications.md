@@ -33,7 +33,7 @@ author_profile: true
 * **[ICCAD'23]** Duo Wang, **Mingyu Yan**, Yihan Teng, Dengke Han, Haoran Dang, Xiaochun Ye, and Dongrui Fan. "[A Transfer Learning Framework for High-Accurate Cross-Workload Design Space Exploration of CPU](https://ieeexplore.ieee.org/abstract/document/10323840/)." in IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.
 * **[ECML-PKDD'22]** Xin Liu, **Mingyu Yan**, Shuhan Song, Zhengyang Lv, Wenming Li, Guangyu Sun, Xiaochun Ye, and Dongrui Fan."[GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_30)." in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
 * **[ICCAD'20]** Zhaodong Chen, **Mingyu Yan**, Maohua Zhu, Lei Deng, Guoqi Li, Shuangchen Li, and Yuan Xie. "[fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://dl.acm.org/doi/abs/10.1145/3400302.3415610)." in Proceedings of International Conference on Computer Aided Design (ICCAD), 2020.
-
+* **[DATE'24]** Gongjian Sun, **Mingyu Yan**, Dengke Han, Runzhen Xue, Xiaochun Ye, and Dongrui Fan. "[LiGNN: Accelerating GNN Training through Locality-aware Dropout]()." in Proceedings of Design Automation and Test in Europe Conference (DATE), 2025.
 
 
 
