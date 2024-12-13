@@ -11,7 +11,7 @@ redirect_from:
 **Associate Professor**
 **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
 
-Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. He has published over 15 research papers in top-tier conferences and journals, including MICRO, HPCA, DAC, ICCAD, AAAI, IJCAI, PIEEE, IEEE TC, IEEE TPDS, IEEE TCAD, IEEE TACO, IEEE/CAA JAS, and IEEE J-STSP. He has served as a TPC member for HPCA 2024, ICS 2024, and IJCAI 2024, an ERC member for ISCA 2024 and MICRO 2024, and a reviewer for various journals including IEEE TPDS, IEEE TPAMI, IEEE CAL, Frontiers in Neuroscience, and others. He is a recipient of the First Prize in the Beijing Science and Technology Award and the Outstanding Doctoral Dissertation Award from the China Computer Federation. Additionally, he has been selected for the Young Talent Development Program of the China Computer Federation and a member of the Youth Innovation Promotion Association of Chinese Academy of Sciences, as well as the Youth Team Program in Basic Research of the Chinese Academy of Sciences.
+Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. He has published about 20 research papers in top-tier conferences and journals, including MICRO, HPCA, DAC, ICCAD, AAAI, IJCAI, PIEEE, IEEE TC, IEEE TPDS, IEEE TCAD, IEEE TACO, Neural Networks, IEEE/CAA JAS, and IEEE J-STSP. He has served as a TPC member for HPCA 2024, ICS 2024, IJCAI 2024, and ISPASS 2025, an ERC member for ISCA 2024 and MICRO 2024, and a reviewer for various journals including IEEE TPDS, IEEE TPAMI, IEEE TC, ACM TACO, IEEE CAL, Frontiers in Neuroscience, and others. He is a recipient of the First Prize in the Beijing Science and Technology Award and the Outstanding Doctoral Dissertation Award from the China Computer Federation. Additionally, he has been selected for the Young Talent Development Program of the China Computer Federation and a member of the Youth Innovation Promotion Association of Chinese Academy of Sciences, as well as the Youth Team Program in Basic Research of the Chinese Academy of Sciences.
 
 
 ## Research Interests
@@ -40,8 +40,10 @@ Computer Architecture, Graph Machine Learning, Design Space Exploration
 ### Conference TPC/ERC Member
 * IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024)
 * International Symposium on Computer Architecture (ISCA 2024)
+* IEEE/ACM International Symposium on Microarchitecture (MICRO 2024)
 * ACM International Conference on Supercomputing (ICS 2024)
 * International Joint Conference on Artificial Intelligence (IJCAI 2024)
+* IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2025)
 
 ### Journal Editor
 * Frontiers in Neuroscience (Member in Editorial Board, 2022 - Present)
@@ -49,6 +51,8 @@ Computer Architecture, Graph Machine Learning, Design Space Exploration
 ### Journal Reviewer
 * IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+* IEEE Transactions on Computers (IEEE TC)
+* ACM Transactions on Architecture and Code Optimizatione (ACM TACO)
 * IEEE Computer Architecture Letters (IEEE CAL)
 * Frontiers in Neuroscience
 
