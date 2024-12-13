@@ -34,6 +34,8 @@ author_profile: true
 * **[ECML-PKDD'22]** Xin Liu, **Mingyu Yan**, Shuhan Song, Zhengyang Lv, Wenming Li, Guangyu Sun, Xiaochun Ye, and Dongrui Fan."[GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_30)." in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
 * **[ICCAD'20]** Zhaodong Chen, **Mingyu Yan**, Maohua Zhu, Lei Deng, Guoqi Li, Shuangchen Li, and Yuan Xie. "[fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://dl.acm.org/doi/abs/10.1145/3400302.3415610)." in Proceedings of International Conference on Computer Aided Design (ICCAD), 2020.
 * **[DATE'24]** Gongjian Sun, **Mingyu Yan**, Dengke Han, Runzhen Xue, Xiaochun Ye, and Dongrui Fan. "[LiGNN: Accelerating GNN Training through Locality-aware Dropout]()." in Proceedings of Design Automation and Test in Europe Conference (DATE), 2025.
-
+* **[Euro-Par'24]** Dengke Han, Meng Wu, Runzhen Xue, **Mingyu Yan**, Xiaochun Ye, and Dongrui Fan. "[ADE-HGNN: Accelerating HGNNs through Attention Disparity Exploitation](https://arxiv.org/pdf/2406.00988)." in Proceedings of European Conference on Parallel Processing (Euro-Par), 2024.
+* **[Euro-Par'24]** Haoran Dang, Meng Wu, **Mingyu Yan**, Xiaochun Ye, and Dongrui Fan. "[GDL-GNN: Applying GPU Dataloading of Large Datasets for Graph Neural Network Inference](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_24)." in Proceedings of European Conference on Parallel Processing (Euro-Par), 2024.
+* **[Euro-Par'24]** Yuxiang Zhang, Xin Liu, Meng Wu, Wei Yan, Mingyu Yan, Xiaochun Ye, and Dongrui Fan. "[Disttack: Graph Adversarial Attacks Toward Distributed GNN Training](https://arxiv.org/pdf/2405.06247)." in Proceedings of European Conference on Parallel Processing (Euro-Par), 2024.  
 
 
