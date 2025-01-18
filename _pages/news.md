@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
+🧐**Mingyu Yan was invited to serve as the TPC member of Survey Track in IJCAI 2025.**
+
+🧐**Mingyu Yan was invited to serve as the TPC member of ISPASS 2025.**
+
 📝 **HiHGNN，a hardware accelerator for heterogeneous graph neural networks has been accepted by IEEE TPDS.**
 * [TPDS 2024] "[HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation](https://arxiv.org/pdf/2307.12765).", IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2024.
 
