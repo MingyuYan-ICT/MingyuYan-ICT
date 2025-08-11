@@ -12,7 +12,7 @@ redirect_from:
 
 **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**
 
-Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. He has published about 20 research papers in top-tier conferences and journals, including MICRO, HPCA, DAC, ICCAD, AAAI, SIGIR, IJCAI, PIEEE, IEEE TC, IEEE TPDS, IEEE TCAD, IEEE TACO, Neural Networks, IEE TKDE, IEEE/CAA JAS, and IEEE J-STSP. He has served as a TPC member for HPCA 2024, ICS 2024, IJCAI 2024, IJCAI 2025, and ISPASS 2025, an ERC member for ISCA 2024 and MICRO 2024, and a reviewer for various journals including IEEE TPDS, IEEE TPAMI, IEEE TC, IEEE TCAD, ACM TACO, IEEE CAL, Frontiers in Neuroscience, and others. He is a recipient of the First Prize in the Beijing Science and Technology Award and the Outstanding Doctoral Dissertation Award from the China Computer Federation. Additionally, he has been selected for the Young Talent Development Program of the China Computer Federation and a member of the Youth Innovation Promotion Association of Chinese Academy of Sciences, as well as the Youth Team Program in Basic Research of the Chinese Academy of Sciences.
+Mingyu Yan is currently an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. He has published about 20 research papers in top-tier conferences and journals, including MICRO, HPCA, DAC, ICCAD, AAAI, SIGIR, IJCAI, PIEEE, IEEE TC, IEEE TPDS, IEEE TCAD, IEEE TACO, Neural Networks, IEE TKDE, IEEE/CAA JAS, and IEEE J-STSP. He has served as a TPC member for HPCA 2026, HPCA 2024, ICS 2024, IJCAI 2024, IJCAI 2025, and ISPASS 2025, an ERC member for ISCA 2024 and MICRO 2024, and a reviewer for various journals including IEEE TPDS, IEEE TPAMI, IEEE TC, IEEE TCAD, ACM TACO, ACM TECS, ACM TRETS, IEEE CAL, Frontiers in Neuroscience, and others. He is a recipient of the First Prize in the Beijing Science and Technology Award and the Outstanding Doctoral Dissertation Award from the China Computer Federation. Additionally, he has been selected for the Young Talent Development Program of the China Computer Federation, a member of the Youth Innovation Promotion Association of Chinese Academy of Sciences, the Youth Team Program in Basic Research of the Chinese Academy of Sciences, and Beijing Science and Technology Rising Star Program.
 
 
 ## Research Interests
@@ -39,6 +39,7 @@ Computer Architecture, Graph Machine Learning, Design Space Exploration
 
 ## Academic Services
 ### Conference TPC/ERC Member
+* IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)
 * IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024)
 * International Symposium on Computer Architecture (ISCA 2024)
 * IEEE/ACM International Symposium on Microarchitecture (MICRO 2024)
@@ -54,10 +55,13 @@ Computer Architecture, Graph Machine Learning, Design Space Exploration
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 * IEEE Transactions on Computers (IEEE TC)
 * ACM Transactions on Architecture and Code Optimizatione (ACM TACO)
+* ACM Transactions on Embedded Computing Systems (ACM TECS)
+* ACM Transactions on Reconfigurable Technology and Systems (ACM TRETS)
 * IEEE Computer Architecture Letters (IEEE CAL)
 * Frontiers in Neuroscience
 
 ## Honors and Awards
+* Selected for Beijing Science and Technology Rising Star Program (2025)
 * Selected for Member of Youth Innovation Promotion Association of Chinese Academy of Sciences (2023)
 * Outstanding Doctoral Dissertation Award of China Computer Federation (2022)
 * Selected for Young Talent Development Program of China Computer Federation (2022)
@@ -76,7 +80,7 @@ Computer Architecture, Graph Machine Learning, Design Space Exploration
 
 
 ## Contact
-Address: Room 390, Building 1, Institute of Computing Technology, Chinese Academy of Sciences, Environmental Science and Technology Park, Beiqing Road, Haidian District, Beijing
+Address: Institute of Computing Technology, Chinese Academy of Sciences, Environmental Science and Technology Park, Beiqing Road, Haidian District, Beijing
 
 
 Email: yanmingyu at ict dot ac dot cn
